@@ -1,7 +1,7 @@
 {
   "name": "cute-animals",
   "description": "Generate random adj-animal combinations with kid-friendly names.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": {
     "name": "Raine Revere",
     "email": "raine.revere@protonmail.com",
