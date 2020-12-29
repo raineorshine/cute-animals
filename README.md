@@ -63,7 +63,7 @@ heavenly optimistic starfish
 
 ```sh
 $ cute-animals adj adj animal
-elated sincere slot
+elated sincere sloth
 ```
 
 ## Corpus
