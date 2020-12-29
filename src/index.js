@@ -1,5 +1,5 @@
-const adjectives = require('./adjectives.json')
-const animals = require('./animals.json')
+const adjectives = require('../corpus/adjectives')
+const animals = require('../corpus/animals')
 
 /** Get a random element from an array. */
 const sample = arr => arr[Math.floor(Math.random() * arr.length)]

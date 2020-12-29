@@ -11,10 +11,11 @@
   "engines": {
     "node": ">=12"
   },
+  "main": "src",
   "scripts": {
-    "build": "node build.js",
-    "lint": "eslint .",
-    "lintfix": "eslint --fix",
+    "build": "node src/build.js",
+    "lint": "eslint src",
+    "lintfix": "eslint src --fix",
     "test": "jest",
     "test:watch": "jest --watch"
   },
