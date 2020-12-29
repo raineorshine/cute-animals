@@ -11,6 +11,8 @@ npm install --save cute-animals
 
 ## Usage
 
+### Module
+
 ```js
 const animal = require('cute-animals')
 ```
@@ -57,13 +59,22 @@ heavenly optimistic starfish
 */
 ```
 
-## Adjectives
+### CLI
+
+```sh
+$ cute-animals adj adj animal
+elated sincere slot
+```
+
+## Corpus
+
+### Adjectives
 
 ```
 <%=adjectives.join('\n')%>
 ```
 
-## Animals
+### Animals
 
 ```
 <%=animals.join('\n')%>

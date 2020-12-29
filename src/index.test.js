@@ -1,4 +1,4 @@
-const animal = require('./index.js')
+const animal = require('./index')
 const adjectives = require('../corpus/adjectives')
 const animals = require('../corpus/animals')
 const allWords = [...adjectives, ...animals]
