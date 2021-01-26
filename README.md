@@ -146,7 +146,7 @@ tumbly
 wacky
 warmhearted
 whimsical
-yummmy
+yummy
 zany
 ```
 
