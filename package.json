@@ -17,6 +17,7 @@
   "scripts": {
     "build": "node src/build.js",
     "lint": "eslint src --cache",
+    "postinstall": "husky install",
     "test": "jest",
     "test:watch": "jest --watch"
   },
@@ -35,6 +36,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.1.0",
+    "husky": "^5.0.8",
     "jest": "^26.6.3"
   }
 }
