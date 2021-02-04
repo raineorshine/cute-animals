@@ -17,8 +17,7 @@
   },
   "scripts": {
     "build": "node src/build.js",
-    "lint": "eslint src",
-    "lintfix": "eslint src --fix",
+    "lint": "eslint src --cache",
     "test": "jest",
     "test:watch": "jest --watch"
   },
