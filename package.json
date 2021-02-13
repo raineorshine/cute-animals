@@ -1,7 +1,7 @@
 {
   "name": "cute-animals",
   "description": "Generate random adj-animal combinations with kid-friendly names.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": {
     "name": "Raine Revere",
     "url": "https://github.com/raineorshine"
