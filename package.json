@@ -17,7 +17,6 @@
   "scripts": {
     "build": "node src/build.js",
     "lint": "eslint src --cache",
-    "postinstall": "husky install",
     "test": "jest",
     "test:watch": "jest --watch"
   },
